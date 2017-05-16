@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.left {
+  width: 35%;
+  background-color: blue;
+  float: left;
+  height: 100vh;
+}
+
+.middle {
+  width: 30%;
+  background-color: Aqua;
+  float: left;
+  height: 100vh;
+}
+
+.right {
+  width: 35%;
+  background-color: #66ff99;
+  float: right;
+  height: 70vh;
+}
+
+.imgHolder {
+  width: 35%;
+  background-color: red;
+  float: right;
+  height: 30vh;
+  position: absolute;
+  bottom: 0;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 60px;
+}
