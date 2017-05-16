@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: #e0e0eb;
+  padding: 70px;
+  margin: 0;
+}
+
+.wrapper {
+  width: 100%;
+  margin: 0px auto;
+}
+
+.blue-box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  top: 20px;
+  margin-left: 40px;
+}
+
+.text {
+  margin: 25px;
+  padding: 25px;
+}
+
+p {
+  font-size: 25px;
+}
+
+.blue-banner {
+  background-color: blue;
+  padding: 70px;
+  margin: 0;
+}
+.blue-green {
+  background-color: #4dffdb;
+  padding: 70px;
+  margin: 0;
+}
+
+.dark-green {
+  background-color: #558000;
+  padding: 70px;
+  margin: 0;
+}
+
+.light-green {
+  background-color: #ccff66;
+  padding: 70px;
+  margin: 0;
+}
